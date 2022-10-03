@@ -1,0 +1,13 @@
+/* qui andiamo a definire i principali attori che vedremo in schermata, la road principale e il background */
+
+body {
+    margin: 0;
+    background:darkgrey;
+    overflow: hidden;
+    text-align: center;
+}
+
+#myCanvas {
+    background: lightgrey;
+    
+}
