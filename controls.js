@@ -1,6 +1,6 @@
 //qui andiamo a definire il collegamento che permetterà alla nostra macchina di potersi guidare direttamente da tastiera 
 
-class Controls {
+class controlli {
   constructor() {
     this.forward = false;
     this.left = false;
