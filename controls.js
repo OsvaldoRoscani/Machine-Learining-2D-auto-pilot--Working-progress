@@ -1,4 +1,4 @@
-//qui andiamo a definire il collegamento che permetterà alla nostra macchina di potersi farsi guidare
+//qui andiamo a definire il collegamento che permetterà alla nostra macchina di potersi guidare direttamente da tastiera 
 
 class Controls {
   constructor() {
